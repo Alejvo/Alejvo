@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 ¡Hello! I'm Alejandro 
 
-<!--
-**Alejvo/Alejvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate and detail-oriented web developer specializing in building scalable, high-performance web applications using C#, ASP.NET, and modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning How to use AspNet Core and Github features
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Technologies
+<main style="display:flex;flex-wrap:wrap;flex-direction:row;gap:4px;">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+</main>
+
+---
+
+## 📈 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejvo&layout=compact&theme=tokyonight)
+
+---
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-me%40example.com-red?style=for-the-badge&logo=gmail)](mailto:me@example.com)
