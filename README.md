@@ -33,4 +33,4 @@ Experience building:
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-me%40example.com-red?style=for-the-badge&logo=gmail)](mailto:alegut096@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alegut096%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alegut096@gmail.com)
